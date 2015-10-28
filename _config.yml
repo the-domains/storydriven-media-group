@@ -1,7 +1,7 @@
 name: StoryDriven Media Group
 favicon: null
 layout_spectrum: 0.6213569925166667
-typography_spectrum: 0.6058624195866287
+typography_spectrum: 0.34465
 title: strydrvn
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.75
   lightness: 0.6463015680201352
   saturation: 0.36359744635410607
-  rhythmicContrast: 0.2570546302013099
+  rhythmicContrast: 0.25
 purpose: []
