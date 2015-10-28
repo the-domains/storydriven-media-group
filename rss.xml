@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[StoryDriven Media Group]]></title>
         <description><![CDATA[StoryDriven Media Group]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://strydr.vn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Oct 2015 19:05:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 28 Oct 2015 19:05:46 GMT</lastBuildDate>
+        <atom:link href="http://strydr.vn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>http://strydr.vn/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">e410651c-e953-4968-859f-f81256b648af</guid>
+            <pubDate>Wed, 28 Oct 2015 19:04:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test Title]]></title>
             <description><![CDATA[<article><h1>Test Title</h1><p>This is our website on the grid. AI, Baby!</p></article>]]></description>
-            <link>undefinedtest-title/index.html</link>
+            <link>http://strydr.vn/test-title/index.html</link>
             <guid isPermaLink="false">bbb42e24-3ece-427b-a82f-272e7e054df7</guid>
             <pubDate>Wed, 28 Oct 2015 19:04:34 GMT</pubDate>
         </item>
